@@ -1,0 +1,7 @@
+.idea
+data/*.csv
+data/*.h5
+results/*.csv
+project/target
+project/project
+target
