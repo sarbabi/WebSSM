@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.802982.svg)](https://doi.org/10.5072/zenodo.802982)
 # WebSSM
 ![webssm](thumbnail.jpg)
 a web-based tool for visualizing, manipulating and sampling statistical shape models in [scalismo](https://github.com/unibas-gravis/scalismo)
