@@ -48,3 +48,13 @@ In case you wanted to make changes in the frontend (like changing menus, adding 
 
 ### deployment on server
 enjoying viewing your shape model in your browser? if you want to deploy your web-based tool to your real server, you have a few more steps to do. Then if you send me a message in email or in [Scalismo google discussion group](https://groups.google.com/g/scalismo), I'll provide you with an easy step-by-step guide.
+
+### your contribution
+a lot of rooms for improvement and a lot other ideas can be implemented in the code with pretty much little changes, a few shown bellow:
+#### multiple view
+for instance in case you're visualizing like a joint, there's possiblity to show them in the same page. an example is bellow: 
+![webssm-two_win](thumbnail2.jpg)
+
+#### tuning the MoVs to more than 3SD of mean shape
+here you see an example of the shape, you can change the MoVs to something far to 10 SD in this example:
+![webssm-meer-than-3SD](thumbnail3.jpg)
