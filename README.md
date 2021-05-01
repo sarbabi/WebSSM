@@ -61,3 +61,7 @@ for instance in case you're visualizing like a joint, there's possiblity to show
 #### tuning the MoVs to more than 3SD of mean shape
 here you see an example of the shape, you can change the MoVs to something far to 10 SD in this example:
 ![webssm-meer-than-3SD](thumbnail3.jpg)
+
+### team:
+#### [Saeed Arbabi](https://www.umcutrecht.nl/en/research/researchers/arbabi-saeed-s)
+#### [Vahid Arbabi](https://www.google.com/search?client=firefox-b-d&q=vahid+arbabi%2Bassistant+professor%2Bumcutrecht)
