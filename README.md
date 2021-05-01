@@ -64,4 +64,4 @@ here you see an example of the shape, you can change the MoVs to something far t
 
 ### team:
 #### [Saeed Arbabi](https://www.umcutrecht.nl/en/research/researchers/arbabi-saeed-s)
-#### [Vahid Arbabi](https://www.google.com/search?client=firefox-b-d&q=vahid+arbabi%2Bassistant+professor%2Bumcutrecht)
+#### [Vahid Arbabi](https://www.umcutrecht.nl/en/research/researchers/arbabi-vahid-v)
