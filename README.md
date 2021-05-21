@@ -63,4 +63,4 @@ here you see an example of the shape, you can change the MoVs to something far t
 ![webssm-meer-than-3SD](thumbnail3.jpg)
 
 ### team:
-#### [Saeed Arbabi](https://www.umcutrecht.nl/en/research/researchers/arbabi-saeed-s), [Vahid Arbabi](https://www.umcutrecht.nl/en/research/researchers/arbabi-vahid-v)
+#### [Saeed Arbabi](https://www.linkedin.com/in/saeed-arbabi-2b328a42/), [Vahid Arbabi](https://www.linkedin.com/in/vahid-arbabi-86a1b85b/?originalSubdomain=nl)
