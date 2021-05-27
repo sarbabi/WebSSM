@@ -9,7 +9,8 @@ a web-based tool for visualizing, manipulating and sampling statistical shape mo
 WebSSM aims to bringing these statistical shape models to the convenience of web. So anyone accessing the web can view and interact with your shape model, also create samples and download them for their use.
 
 ## Demo
-you can see a Demo of how WebSSM looks in [here](https://www.youtube.com/watch?v=7YUsT4kE_Zg).
+you can see a video demo of how WebSSM looks in [here](https://www.youtube.com/watch?v=7YUsT4kE_Zg).
+an online demo is available in [here](https://ankleshapemodels.com/)
 
 ## Screenshots
 
@@ -49,11 +50,11 @@ In case you wanted to make changes in the frontend (like changing menus, adding 
 
 
 ### deployment on server
-enjoying viewing your shape model in your browser? if you want to deploy your web-based tool to your real server, you have a few more steps to do. Then if you send me a message in email or in [Scalismo google discussion group](https://groups.google.com/g/scalismo), I'll provide you with an easy step-by-step guide.
+enjoying viewing your shape model in your browser? if you want to deploy your web-based tool to your real server, you have a few more steps to do. Then if you send me a message in email (gsarbabi@gmail.com) or in [Scalismo google discussion group](https://groups.google.com/g/scalismo), I'll provide you with an step-by-step guide.
 
 
 ### your contribution
-a lot of rooms for improvement and a lot other ideas can be implemented in the code with pretty much little changes, a few shown bellow:
+a lot of rooms for improvement and other ideas can be implemented in the code with pretty much little changes, a few shown bellow:
 #### multiple view
 for instance in case you're visualizing like a joint, there's possiblity to show them in the same page. an example is bellow: 
 ![webssm-two_win](thumbnail2.jpg)
