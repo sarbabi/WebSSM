@@ -9,9 +9,9 @@ a web-based tool for visualizing, manipulating and sampling statistical shape mo
 WebSSM aims to bringing these statistical shape models to the convenience of web. So anyone accessing the web can view and interact with your shape model, also create samples and download them for their use.
 
 ## Demo
-you can see a video demo of how WebSSM looks in [here](https://www.youtube.com/watch?v=7YUsT4kE_Zg).
-an online demo is available in [here](https://ankleshapemodels.com/)
-page on image sciences institute website [ISI@UU] (https://www.isi.uu.nl/research/software/)
+- you can see a video demo of how WebSSM looks in [here](https://www.youtube.com/watch?v=7YUsT4kE_Zg).
+- an online demo is available in [here](https://ankleshapemodels.com/)
+- page on image sciences institute website [ISI@UU] (https://www.isi.uu.nl/research/software/)
 
 ## Screenshots
 
