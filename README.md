@@ -13,6 +13,9 @@ WebSSM aims to bringing these statistical shape models to the convenience of web
 - an online demo is available in [here](https://ankleshapemodels.com/)
 - page on image sciences institute website [ISI@UU](https://www.isi.uu.nl/research/software/webssm/)
 
+## Paper
+This tool is provided as a visualization tool for our paper: ["Statistical Shape Model of the Talus Bone Morphology: A Comparison between Impinged and non-Impinged Ankles"](https://onlinelibrary.wiley.com/doi/abs/10.1002/jor.25328) published in The Journal of Orthopaedics Research 2022.
+
 ## Screenshots
 
 ## Tech/Framework used
