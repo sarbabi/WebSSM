@@ -54,7 +54,7 @@ In case you wanted to make changes in the frontend (like changing menus, adding 
 
 
 ### deployment on server
-enjoying viewing your shape model in your browser? if you want to deploy your web-based tool to your real server, you have a few more steps to do. Then if you send me a message in email (gsarbabi@gmail.com) or in [Scalismo google discussion group](https://groups.google.com/g/scalismo), I'll provide you with an step-by-step guide.
+enjoying viewing your shape model in your browser? if you want to deploy your web-based tool to your real server, you have a few more steps.
 
 
 ### your contribution
